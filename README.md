@@ -1,4 +1,4 @@
-# sboxm
+# 千寻 (Impl)
 
 ```
 $ sboxm --version
